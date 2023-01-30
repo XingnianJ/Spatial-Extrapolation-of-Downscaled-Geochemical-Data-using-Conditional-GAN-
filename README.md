@@ -1,0 +1,1 @@
+# Spatial-Extrapolation-of-Downscaled-Geochemical-Data-using-Conditional-GAN-
